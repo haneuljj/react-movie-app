@@ -1,4 +1,5 @@
 {
+  "homepage": "http://haneuljj.github.io/react_movie_app_test",
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage" : "https://haneuljj.github.io/react_movie_app_test"
+  }
 }
